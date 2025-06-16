@@ -1,4 +1,3 @@
-# ───────── docker/essentials.md ─────────
 # Docker Essentials Commands
 
 ## Images
